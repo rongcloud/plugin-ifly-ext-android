@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

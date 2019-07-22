@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a0419aa46071e1d5f968f367218813e/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/97796d509bbd6534bbfbd137a2962316/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/97796d509bbd6534bbfbd137a2962316/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/rc_btn_file_list_send.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/color/rc_btn_file_list_send.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a0419aa46071e1d5f968f367218813e/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/4a0419aa46071e1d5f968f367218813e/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/color/switch_thumb_material_light.xml"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ସକ୍ଷମ କରନ୍ତୁ"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"ଆପଣ Google Play ସେବା ସକ୍ଷମ ନ କରିବା ପର୍ଯ୍ୟନ୍ତ <ns1:g id="APP_NAME">%1$s</ns1:g> କାମ କରିବ ନାହିଁ।"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play ସେବାଗୁଡ଼ିକ ସକ୍ଷମ କରନ୍ତୁ"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ଇନ୍‍ଷ୍ଟଲ୍‍ କରନ୍ତୁ"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ଏହି Google Play ସେବାଗୁଡ଼ିକ ବିନା ଚାଲେ ନାହିଁ, ଏବଂ ସେଗୁଡ଼ିକ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ନାହିଁ।"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play ସେବାଗୁଡ଼ିକ ପ୍ରାପ୍ତ କରନ୍ତୁ"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play ସେବାଗୁଡ଼ିକର ଉପଲବ୍ଧତା"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play ସେବା ସମ୍ପର୍କିତ ସମସ୍ୟା"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>ର Google Play ସେବା ସହ ଏକ ସମସ୍ୟା ରହିଛି। ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ଏହି Google Play ସେବାଗୁଡ଼ିକ ବିନା ଚାଲେ ନାହିଁ, ଏବଂ ସେଗୁଡ଼ିକ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ କାମ କରେ ନାହିଁ।"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ଅପଡେଟ୍‍ କରନ୍ତୁ"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"ଆପଣ Google Play ସେବା ଅପଡେଟ୍‌ ନ କରିବା ପର୍ଯ୍ୟନ୍ତ <ns1:g id="APP_NAME">%1$s</ns1:g> ଚାଲିବ ନାହିଁ।"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play ସେବାଗୁଡ଼ିକ ଅପଡେଟ୍ କରନ୍ତୁ"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play ସେବାଗୁଡ଼ିକ ବିନା <ns1:g id="APP_NAME">%1$s</ns1:g> ଚାଲିବ ନାହିଁ, ଯେଉଁଗୁଡ଼ିକ ବର୍ତ୍ତମାନ ଅପଡେଟ୍‌ ହେଉଛି।"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play ସେବାଗୁଡ଼ିକର ନୂତନ ଭର୍ସନ୍‌ ଆବଶ୍ୟକ। ଏହା ନିଜକୁ କିଛି ସମୟ ମଧ୍ୟରେ ଅପଡେଟ୍‌ କରିବ।"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ଫୋନ୍‌ରେ ଖୋଲନ୍ତୁ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ସାଇନ୍‌-ଇନ୍ କରନ୍ତୁ"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ସହ ସାଇନ୍‌-ଇନ୍ କରନ୍ତୁ"</string>
+    <string name="connect_server_fail_prompt_toast" priority="translator">"ସର୍ଭରକୁ ସଂଯୋଗ କରିବାକୁ ଅସମର୍ଥ। ଦୟାକରି ପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"ଅନ୍ୟାନ୍ୟ"</string>
+    <string name="getting_message_fail_prompt_toast" priority="translator">"ସୂଚନା ପୁନରୁଦ୍ଧାର କରିବାକୁ ଅସମର୍ଥ ହୋଇଛି। ଦୟାକରି ପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="hms_abort" priority="translator">"ବନ୍ଦ କରନ୍ତୁ"</string>
+    <string name="hms_abort_message" priority="translator">"ଡାଉନଲୋଡ୍ କରିବା ସ୍ଥଗିତ କରିବେ?"</string>
+    <string name="hms_bindfaildlg_message" priority="translator">"%1$s Huawei Mobile Services ବ୍ୟବହାର କରିବାକୁ ଅସମର୍ଥ। ଦୟାକରି ଫୋନ୍ ପରିଚାଳକ ଉନ୍ମୋଚନ କରନ୍ତୁ କିମ୍ୱା ସେଟିଂସକୁ ଯାଆନ୍ତୁ, (ଅନ୍ତର୍ଭୁକ୍ତ ସ୍ଵତଃ-ଲଞ୍ଚ ଏବଂ ଗୌଣ ଲଞ୍ଚ) %2$s ପାଇଁ ସମସ୍ତ ଅନୁମତିଗୁଡିକ ସକ୍ଷମ କରନ୍ତୁ, ଏବଂ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="hms_cancel" priority="translator">"ବାତିଲ୍ କରନ୍ତୁ"</string>
+    <string name="hms_check_failure" priority="translator">"ଅପଡେଟସ୍‌ ଯାଞ୍ଚ କରିବାକୁ ବିଫଳ ହୋଇଛି।"</string>
+    <string name="hms_check_no_update" priority="translator">"ଆପଣ ପୂର୍ବରୁ ନବୀନତ୍ତମ ସଂସ୍କରଣ ବ୍ୟବହାର କରୁଛନ୍ତି।"</string>
+    <string name="hms_checking" priority="translator">"ଅପଡେଟଗୁଡିକ ପାଇଁ ଯାଞ୍ଚ ହେଉଛି…"</string>
+    <string name="hms_confirm" priority="translator">"ଓକେ"</string>
+    <string name="hms_download_failure" priority="translator">"Huawei Mobile Services ପ୍ୟାକେଜ୍ ଡାଉନଲୋଡ୍ କରିବାକୁ ବିଫଳ ହୋଇଛି।"</string>
+    <string name="hms_download_no_space" priority="translator">"ପର୍ଯ୍ୟାପ୍ତ ଖାଲି ସ୍ଥାନ ନାହିଁ। ଡାଉନଲୋଡ୍ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇପାରିବ ନାହିଁ।"</string>
+    <string name="hms_download_retry" priority="translator">"ଡାଉନଲୋଡ୍ ବିଫଳ ହୋଇଛି। ପୁନଃଚେଷ୍ଟା କରିବେ?"</string>
+    <string name="hms_downloading" priority="translator">"Huawei Mobile Services ଡାଉନଲୋଡ୍ ହେଉଛି\nପ୍ରଗତି: %d%%"</string>
+    <string name="hms_downloading_loading" priority="LT">"ଡାଉନଲୋଡ୍ ହେଉଛି"</string>
+    <string name="hms_downloading_new" priority="translator">"HMS ଡାଉନଲୋଡ୍ ହେଉଛି"</string>
+    <string name="hms_gamebox_name" priority="LT">"HUAWEI GameCenter"</string>
+    <string name="hms_install" priority="translator">"ସଂସ୍ଥାପନ କରନ୍ତୁ"</string>
+    <string name="hms_install_message" priority="translator">"ଏହି ବିଶେଷତା ବ୍ୟବହାର କରିବାକୁ ନିଶ୍ଚିତ ଭାବରେ Huawei Mobile Services ସଂସ୍ଥାପିତ କରିବା ଆବଶ୍ୟକ। ସଂସ୍ଥାପନ କରିବେ?"</string>
+    <string name="hms_push_channel" priority="translator">"ଡିଫଲ୍ଟ"</string>
+    <string name="hms_retry" priority="translator">"ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ"</string>
+    <string name="hms_update" priority="translator">"ଅପଡେଟ୍‌ କରନ୍ତୁ"</string>
+    <string name="hms_update_message" priority="translator">"ଏହି ବିଶେଷତା ବ୍ୟବହାର କରିବାକୁ Huawei Mobile Services ର ନବୀନତ୍ତମ ସଂସ୍କରଣ ଅପଡେଟ୍ କରନ୍ତୁ। ବର୍ତ୍ତମାନ ଅପଡେଟ୍‌ କରିବେ?"</string>
+    <string name="hms_update_message_new" priority="translator">"ଏହି ସେବା ପାଇଁ ନିମ୍ନଲିଖିତ ଆପ୍ ର ନବୀନତ୍ତମ ସଂସ୍କରଣ ଆବଶ୍ୟକ ଅଟେ:\n\n%1$s"</string>
+    <string name="hms_update_title" priority="translator">"Huawei Mobile Services"</string>
+    <string name="no_available_network_prompt_toast" priority="translator">"କୌଣସି ଇଣ୍ଟର୍ନେଟ୍‌ ସଂଯୋଜନା ନାହିଁ। ଦୟାକରି ଆପଣଙ୍କ ନେଟୱାର୍କ୍‌ ସେଟିଂସ୍ ଯାଞ୍ଚ କରନ୍ତୁ।"</string>
+    <string name="third_app_dl_cancel_download_prompt_ex" priority="translator">"ସଂସ୍ଥାପନା ବାତିଲ୍ କରିବେ?"</string>
+    <string name="third_app_dl_install_failed" priority="translator">"ସଂସ୍ଥାପନା ବିଫଳ ହୋଇଛି।"</string>
+    <string name="third_app_dl_sure_cancel_download" priority="LT">"ହଁ"</string>
+    <string name="upsdk_app_dl_installing" priority="translator">"AppGallery ଡାଉନଲୋଡ୍ ହେଉଛି"</string>
+    <string name="upsdk_app_download_info_new" priority="translator">"ସଂସ୍ଥାପନ କରନ୍ତୁ"</string>
+    <string name="upsdk_app_size" priority="translator">"ଆକାର"</string>
+    <string name="upsdk_app_version" priority="translator">"ସଂସ୍କରଣ"</string>
+    <string name="upsdk_cancel" priority="translator">"ବାତିଲ୍ କରନ୍ତୁ"</string>
+    <string name="upsdk_checking_update_prompt" priority="translator">"ଅପଡେଟଗୁଡିକ ପାଇଁ ଯାଞ୍ଚ ହେଉଛି…"</string>
+    <string name="upsdk_choice_update" priority="translator">"ଅପଡେଟ୍‌ ଉପଲବ୍ଧ। ଦୟାକରି ନବୀନତ୍ତମ ସଂସ୍କରଣ ଡାଉନଲୋଡ୍ କରନ୍ତୁ ଏବଂ ସଂସ୍ଥାପନ କରନ୍ତୁ।"</string>
+    <string name="upsdk_detail" priority="translator">"ବିବରଣୀ"</string>
+    <string name="upsdk_install" priority="translator">"ଅପଡେଟ୍‌ କରିବାକୁ AppGallery ସଂସ୍ଥାପନ କରନ୍ତୁ। ବର୍ତ୍ତମାନ ସଂସ୍ଥାପନ କରନ୍ତୁ?"</string>
+    <string name="upsdk_ota_app_name" priority="translator">"ଆପ୍"</string>
+    <string name="upsdk_ota_cancel" priority="translator">"ପରେ"</string>
+    <string name="upsdk_ota_force_cancel_new" priority="translator">"ପ୍ରସ୍ଥାନ କରନ୍ତୁ"</string>
+    <string name="upsdk_ota_notify_updatebtn" priority="translator">"ଅପଡେଟ୍‌ କରନ୍ତୁ"</string>
+    <string name="upsdk_ota_title" priority="translator">"ନୂତନ ସଂସ୍କରଣ"</string>
+    <string name="upsdk_update_check_no_new_version" priority="translator">"ଆପଣ ପୂର୍ବରୁ ନବୀନତ୍ତମ ସଂସ୍କରଣ ବ୍ୟବହାର କରୁଛନ୍ତି।"</string>
+    <string name="upsdk_updating" priority="translator">"ଅପଡେଟ୍ କରାଯାଉଛି"</string>
+</resources>

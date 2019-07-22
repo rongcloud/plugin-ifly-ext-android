@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/e9df679e4c2a48a737de624cf5923f4a/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout-v21/notification_action.xml"
+    }
+]

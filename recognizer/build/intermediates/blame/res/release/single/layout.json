@@ -1,0 +1,766 @@
+[
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/cast_intro_overlay.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/26a525ffb3e89e6b323b8b6010f916ef/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/wallet_test_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/97796d509bbd6534bbfbd137a2962316/res/layout/wallet_test_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/mr_chooser_dialog.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_picture_pager.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_picture_pager.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_notification_realtime_location.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_notification_realtime_location.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_mention_list_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_mention_list_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_dialog_popup_options.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_dialog_popup_options.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_search.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_search.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_alert_human_evaluation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_alert_human_evaluation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hwpush_buttons_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-2.6.1.301.aar/b6bd79b6e28df04e16d33a556a554aae/res/layout/hwpush_buttons_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_search_activity.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_search_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_plugin_grid_view.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_plugin_grid_view.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_single_choice_layout.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_single_choice_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_wi_block_popup.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_wi_block_popup.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_rich_content_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_rich_content_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_dialog_alter.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_dialog_alter.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_text_message_evaluate.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_text_message_evaluate.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_new_message_divider.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_new_message_divider.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hwpush_layout8.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-2.6.1.301.aar/b6bd79b6e28df04e16d33a556a554aae/res/layout/hwpush_layout8.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_item_single_choice.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_item_single_choice.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_wi_notice.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_wi_notice.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/mr_volume_control.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_input_edit_text.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_input_edit_text.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/mr_controller_material_dialog_b.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_discussion_notification_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_discussion_notification_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/cast_expanded_controller_activity.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/26a525ffb3e89e6b323b8b6010f916ef/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_sub_menu_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_sub_menu_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_base_activity_layout.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_base_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_picsel_catalog_listview.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_picsel_catalog_listview.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/mr_chooser_list_item.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_indicator.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_indicator.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_base_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_base_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/place_autocomplete_progress.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/e9df679e4c2a48a737de624cf5923f4a/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/cast_help_text.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/26a525ffb3e89e6b323b8b6010f916ef/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/e9df679e4c2a48a737de624cf5923f4a/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_share_location_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_share_location_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_voice_input.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_voice_input.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/push_expandable_big_image_notification.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.7.aar/bbdb570a66c4a6423aef355a004a4814/res/layout/push_expandable_big_image_notification.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_public_service_sub_list.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_public_service_sub_list.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_public_service_inf.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_public_service_inf.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_emoji_grid_view.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_emoji_grid_view.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_image.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_image.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_root_menu_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_root_menu_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_sight_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_sight_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_app_service_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_app_service_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_real_time_activity.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_real_time_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_picsel_preview.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_picsel_preview.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hwpush_layout4.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-2.6.1.301.aar/b6bd79b6e28df04e16d33a556a554aae/res/layout/hwpush_layout4.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/26a525ffb3e89e6b323b8b6010f916ef/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_information_notification_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_information_notification_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_voice_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_voice_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hwpush_layout7.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-2.6.1.301.aar/b6bd79b6e28df04e16d33a556a554aae/res/layout/hwpush_layout7.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_emoji_pager.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_emoji_pager.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hwpush_icons_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-2.6.1.301.aar/b6bd79b6e28df04e16d33a556a554aae/res/layout/hwpush_icons_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_location_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_location_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_picsel_grid_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_picsel_grid_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_preview_activity.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_preview_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_rich_content_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_rich_content_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_wi_vo_popup.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_wi_vo_popup.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_text_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_text_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_list.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_list.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_file_preview_content.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_file_preview_content.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_picsel_activity.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_picsel_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hms_download_progress.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/base-2.6.1.301.aar/d196c83fbd159a4b346846805d9ef1f8/res/layout/hms_download_progress.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_dialog_popup_options_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_dialog_popup_options_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/mr_playback_control.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/view_footer.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/view_footer.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_albums.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_albums.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/26a525ffb3e89e6b323b8b6010f916ef/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_image_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_image_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_file_list.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_file_list.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_progress.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_progress.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_input_pager_layout.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_input_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_emoticon_tab_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_emoticon_tab_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_wi_file_list_adapter.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_wi_file_list_adapter.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_leave_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_leave_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_group_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_group_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menu.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_input_menu.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_picsel_grid_camera.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_picsel_grid_camera.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_search_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_search_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_file_manager.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_file_manager.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fragment_base_setting.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fragment_base_setting.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menus.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_input_menus.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_alert_robot_evaluation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_alert_robot_evaluation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_mention_members.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_mention_members.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_camera.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_camera.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/e9df679e4c2a48a737de624cf5923f4a/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_icon_rt_location_marker.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_icon_rt_location_marker.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_discussion_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_discussion_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_camera.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_camera.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/hwpush_layout2.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-2.6.1.301.aar/b6bd79b6e28df04e16d33a556a554aae/res/layout/hwpush_layout2.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_layout_network_unavailable.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_layout_network_unavailable.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_messagelist.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_messagelist.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_evaluate.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_evaluate.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_sub_menu_container.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_sub_menu_container.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_file_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_file_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_emoji_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_emoji_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/mr_controller_volume_item.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1181e4004f4d4e41d2eeca84d0a9b2f8/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_conversationlist.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_conversationlist.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_real_time_activity_2d.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_real_time_activity_2d.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c52dd8f751b4213b7b4c503d9e7218ba/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_webview.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_webview.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_input_menu_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_input_menu_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/push_expandable_big_text_notification.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.7.aar/bbdb570a66c4a6423aef355a004a4814/res/layout/push_expandable_big_text_notification.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_menu_container.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_menu_container.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_emoticon_tab_container.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_emoticon_tab_container.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_conversation_member_list.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_conversation_member_list.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_actions_container.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_actions_container.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_map_nearby_info_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_map_nearby_info_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_public_service_search.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_public_service_search.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_photo.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_photo.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/push_pure_pic_notification.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/push-internal-3.6.7.aar/bbdb570a66c4a6423aef355a004a4814/res/layout/push_pure_pic_notification.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ac_file_download.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ac_file_download.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_preview_activity_2d.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_preview_activity_2d.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_plugin_location_activity_2d.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_plugin_location_activity_2d.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/05846533502b66c89011cdb4d87c81a1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_public_service_multi_rich_content_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_public_service_multi_rich_content_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_plugin_pager.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_plugin_pager.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_conversation_notification_container.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_conversation_notification_container.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_hq_voice_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_hq_voice_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_plugin_item.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_plugin_item.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_fr_file_list.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_fr_file_list.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/upsdk_app_dl_progress_dialog.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/base-2.6.1.301.aar/d196c83fbd159a4b346846805d9ef1f8/res/layout/upsdk_app_dl_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/e9df679e4c2a48a737de624cf5923f4a/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_dialog_popup_prompt.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_dialog_popup_prompt.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_cs_alert_warning.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_cs_alert_warning.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_conversation_member.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_conversation_member.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_pic_popup_window.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_pic_popup_window.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_preview_fragment.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_preview_fragment.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_ext_extension_bar.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_ext_extension_bar.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_search_title_bar.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_search_title_bar.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_dialog_popup_prompt_warning.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_dialog_popup_prompt_warning.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_plugin_location_activity.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_plugin_location_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_system_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_system_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_location_marker_info_window.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_location_marker_info_window.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_picprev_activity.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_picprev_activity.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_group_information_notification_message.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_group_information_notification_message.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_view_recognizer.xml",
+        "source": "/Users/rc/code/android-workspace/recognizer/src/main/res/layout/rc_view_recognizer.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_wi_block.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_wi_block.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/upsdk_ota_update_view.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/base-2.6.1.301.aar/d196c83fbd159a4b346846805d9ef1f8/res/layout/upsdk_ota_update_view.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_refresh_list_view.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_refresh_list_view.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/cast_mini_controller.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/26a525ffb3e89e6b323b8b6010f916ef/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/rc_item_conversation.xml",
+        "source": "/Users/rc/code/android-workspace/kit/build/intermediates/packaged_res/release/layout/rc_item_conversation.xml"
+    },
+    {
+        "merged": "/Users/rc/code/android-workspace/recognizer/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/rc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bc3893959a3a7e52626cee74d79c1b1e/res/layout/abc_action_menu_layout.xml"
+    }
+]
